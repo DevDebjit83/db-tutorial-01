@@ -172,3 +172,4 @@ This is an educational project. Feel free to:
 ## 📝 License
 
 This project is for educational purposes. Use it to learn and teach others about database connections!
+THIS IS TODAYS PROJECT 
